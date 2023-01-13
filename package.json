@@ -1,0 +1,28 @@
+{
+  "name": "@charon1212/my-typeorm-toolkit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build/index.js",
+  "types": "build/index.d.ts",
+  "scripts": {
+    "prepublishOnly": "tsc",
+    "build": "tsc"
+  },
+  "files": [
+    "build",
+    "README.md",
+    "LICENSE",
+    "package.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charon1212/my-typeorm-toolkit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charon1212/my-typeorm-toolkit/issues"
+  },
+  "homepage": "https://github.com/charon1212/my-typeorm-toolkit#readme"
+}
